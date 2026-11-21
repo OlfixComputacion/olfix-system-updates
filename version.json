@@ -1,0 +1,10 @@
+{
+    "version":  "0.2.0",
+    "releaseDate":  "2026-11-21",
+    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-system-updates/releases/download/v0.2.0/Olfix-System-v0.2.0.zip",
+    "releaseNotes":  "* Actualizaciones: Olfix-System busca versiones nuevas en internet al abrirse (sin frenar el arranque; si no hay internet no muestra nada) y con el botón \"Buscar ahora\" en Configuración \u003e Actualizaciones\n* Actualizaciones: cuando hay una versión nueva aparece un botón en la barra superior con las novedades; se descarga mientras se sigue usando el programa y se instala al cerrar, o al momento con \"Reiniciar ahora\"\n* Actualizaciones: cada descarga se verifica con firma digital y suma de control antes de instalarse; si algo falla se conserva la versión anterior, y la configuración, los registros y las copias de seguridad nunca se tocan\n* Configuración: nueva pestaña Actualizaciones, con la opción de no buscar automáticamente al abrir",
+    "minRequiredVersion":  "0.0.0",
+    "sha256":  "122f469d645112410be0769927f1844cb5c50e500bb9df55131b1d7d9d1bd0d8",
+    "size":  62903345,
+    "signature":  "c/jI/mS/QI47T7FfeenlISIPRn2TDdoPNfwdQohZpS/XfHFJ8nEBnzUZkJ5LVTZd07wBiUWfUGUjtlJpG2kr3UJmEoauRMV3jH3D3eGaewMN2IKJW2rYtaw5UriEL5p5FTOO79PxhhPVkbE84xhsMzsDAdIACDTTzPgF2st5viUi7gLRlCG9RG/6a2rv4Cg+y4jA5lRKVyiJsGGcUzwZVv543ctruTAOcgziVqb3AV8ZWCsJTro+hBoGtUOdKwkxkFKBwqk4T3M4hPbhk99ETBl5dwH4nHdG8hMpP4e0QlGwYYOlet3CRf7Es93R2mlXwVUOQUUeDYwqxQF7cXw0s9O1tYbi0Gx8k4YMP9ZncXfJyxKdtwH+O7kOdRVmCXXbi7sxUvOEhfryj3IF4Q5D+ACYZDhRZuIosrQSooSHmuK5EkojzkIkqqkWZySZS9YCb98IgT35DRBIHoePqK0tGUI7zPyF4DUsDfHNw1EQpEMVGHfOuzd257K4Np/VVrmB"
+}
