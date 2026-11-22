@@ -1,12 +1,12 @@
 {
-    "version":  "0.4.0",
-    "releaseDate":  "2026-11-21",
-    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-system-updates/releases/download/v0.4.0/Olfix-System-v0.4.0.zip",
-    "releaseNotes":  "* Interfaz: cada módulo tiene su propio color (ícono de la pestaña, pestaña elegida, botón principal, fila seleccionada y barras de progreso), en tema claro y oscuro\n* Interfaz: las listas y tablas muestran una fila por medio con fondo distinto, como en una planilla, para seguir cada fila con la vista\n* Runtimes: al descargar o instalar aparece un panel con cada paso (descargar, verificar la firma, confirmar, punto de restauración, instalar y comprobar), una barra siempre en movimiento y el tiempo del paso en curso; así se ve en todo momento qué está haciendo el programa\n* Resumen: las tarjetas y los accesos rápidos usan el color de cada módulo\n* Procesos: en tema oscuro la columna CPU ya no queda en negro (no se leía); la carga alta usa los colores de aviso del tema\n* Runtimes: si el punto de restauración no se puede crear, el panel lo avisa en ese paso y el registro muestra el motivo en texto simple (antes aparecía texto técnico de PowerShell)",
+    "version":  "0.5.0",
+    "releaseDate":  "2026-11-22",
+    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-system-updates/releases/download/v0.5.0/Olfix-System-v0.5.0.zip",
+    "releaseNotes":  "* Ayuda: nuevo botón «?» y tecla F1. Explica cada herramienta (para qué sirve, cómo se usa, clic derecho, qué es seguro y qué cuidar, preguntas frecuentes), con buscador y botón «Ir a esta herramienta»; F1 la abre en la herramienta que estás viendo\n* Resumen: nueva tarjeta «Equipo» con placa madre, BIOS, procesador, placas de video y memorias RAM (marca y modelo), con «Copiar todo» y «Buscar drivers»\n* Interfaz: menú contextual (clic derecho) con las acciones más usadas en las listas de todas las herramientas, con los colores del tema claro u oscuro\n* Interfaz: infotips que explican qué hace cada botón, opción y columna\n* Interfaz: las columnas ordenadas muestran una flecha (de menor a mayor o de mayor a menor) en el encabezado\n* Procesos: ordenar por CPU, memoria u otra columna que no sea el nombre pasa la lista a plana y ordena todos los procesos juntos (en árbol solo se ordenaba cada rama); Estado, Descripción y Ruta también se pueden ordenar",
     "minRequiredVersion":  "0.0.0",
-    "sha256":  "8dc51534e515e1e63968898f2577f3fb7fe6eab8f5e3875afc067cd9d11cb964",
-    "size":  62981375,
-    "signature":  "ImoIDSv9vzm92Z7NK2YCELiBAUZHB5Jp+6M9bKsrwxtjIfFokGbWAKfarxiNjgIDElC6XuEI91la8OZTlu5lvQCeD1QDGjaMmAbBQfoWrWqMc6yijECQBz8bdqoGABAOWMrrM4KMmbI9ttnUuPVxkPP/igfcMzxGH+e0nMln258yFtvNaEMOGInPFw17jjrAa2wzU1C6GN4FGlfl4eNGzFrO6pkzpjmr4cyuXnRWy/f6uvwU+PgZfZi/5WlVj1EsTh/+ALraP83KBHqCI0HShasEQ2zF8BHqxbKDgxm3r1qXsYctIHz8iFNGGjBchGDfy7LKuq1aF5mhgK/ghbYOvCnrEpxXNIvJRp2TOk4RZ2+9i0qvKXQo2eKZUQXvow28vv69rEWXd2nUwhXJhBC4m5UAR+2x2tFia0oX7dcw2rQMB/bPp1jdr361EG7ElAGpxu/rLNiJLEeCTKU/L+O07XYDNm47eDvtQywXAnb6hT8JG3LI+k+jAhMYNRCy/G4D",
+    "sha256":  "764417f42cd8fdecb94defd0cbfa78d4cd8bf0d2f71cd647e6aef2911a4d52d1",
+    "size":  63071714,
+    "signature":  "AcxptuegeYLmkJqcyUR6560XPkWa48/UQDNnjE9nJtglupUypMD9fj7De8r2O7fmj/xA7/PDZkt4+67FGjzH7iM9CbMAQ4JK6e3P5pJ411FgtbUY2dDrEWqafChsNZGxc5jFi9ap26jHAD3VdZW/+9bjriuAro1paSpF5R0TZ0GHUSBD6XWqqRI9lc9mP55813ENvDm5tIkp7N0dJrJzw50O4Y1pcgHAKclbhzYVaCDv7J+TnGYaZ+NNeBDuTOU8uWvmlazL2rGjp2Gh+mSUMybY72aW3X0iYrQHXJJERcYTQbWjblbuSgxXP1H4D1885zlYs0fhYcoSgd3SfZIJ84S0xn+aBar6YEmMCY+68x91FvZE03QTZZK91KflXRAwql1f43US2cRUAH8XXrei3qzKkaNQwXZwgwzv+sq03Rs3n/fP592tA8kRdvOM+1f7lbyk19v3lHCJdg1lT1UYgf64yyBo0f9iErjfSOB9msQ7fmxDRART5pTGBK4BzWYO",
     "modules":  [
 
                 ]
