@@ -1,12 +1,12 @@
 {
-    "version":  "0.5.0",
+    "version":  "0.6.0",
     "releaseDate":  "2026-11-22",
-    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-system-updates/releases/download/v0.5.0/Olfix-System-v0.5.0.zip",
-    "releaseNotes":  "* Ayuda: nuevo botón «?» y tecla F1. Explica cada herramienta (para qué sirve, cómo se usa, clic derecho, qué es seguro y qué cuidar, preguntas frecuentes), con buscador y botón «Ir a esta herramienta»; F1 la abre en la herramienta que estás viendo\n* Resumen: nueva tarjeta «Equipo» con placa madre, BIOS, procesador, placas de video y memorias RAM (marca y modelo), con «Copiar todo» y «Buscar drivers»\n* Interfaz: menú contextual (clic derecho) con las acciones más usadas en las listas de todas las herramientas, con los colores del tema claro u oscuro\n* Interfaz: infotips que explican qué hace cada botón, opción y columna\n* Interfaz: las columnas ordenadas muestran una flecha (de menor a mayor o de mayor a menor) en el encabezado\n* Procesos: ordenar por CPU, memoria u otra columna que no sea el nombre pasa la lista a plana y ordena todos los procesos juntos (en árbol solo se ordenaba cada rama); Estado, Descripción y Ruta también se pueden ordenar",
+    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-system-updates/releases/download/v0.6.0/Olfix-System-v0.6.0.zip",
+    "releaseNotes":  "* Al abrir: mientras mirás el Resumen, las demás herramientas se preparan solas en segundo plano (procesos, programas de inicio, servicios, programas instalados, runtimes y espacio a limpiar), así se abren al instante. La barra de estado muestra el avance; solo lee datos, no cambia nada, y se desactiva en Configuración → Rendimiento\n* Monitor: la CPU se ve por núcleo lógico desde el primer momento, y se recuerda si preferís el total",
     "minRequiredVersion":  "0.0.0",
-    "sha256":  "764417f42cd8fdecb94defd0cbfa78d4cd8bf0d2f71cd647e6aef2911a4d52d1",
-    "size":  63071714,
-    "signature":  "AcxptuegeYLmkJqcyUR6560XPkWa48/UQDNnjE9nJtglupUypMD9fj7De8r2O7fmj/xA7/PDZkt4+67FGjzH7iM9CbMAQ4JK6e3P5pJ411FgtbUY2dDrEWqafChsNZGxc5jFi9ap26jHAD3VdZW/+9bjriuAro1paSpF5R0TZ0GHUSBD6XWqqRI9lc9mP55813ENvDm5tIkp7N0dJrJzw50O4Y1pcgHAKclbhzYVaCDv7J+TnGYaZ+NNeBDuTOU8uWvmlazL2rGjp2Gh+mSUMybY72aW3X0iYrQHXJJERcYTQbWjblbuSgxXP1H4D1885zlYs0fhYcoSgd3SfZIJ84S0xn+aBar6YEmMCY+68x91FvZE03QTZZK91KflXRAwql1f43US2cRUAH8XXrei3qzKkaNQwXZwgwzv+sq03Rs3n/fP592tA8kRdvOM+1f7lbyk19v3lHCJdg1lT1UYgf64yyBo0f9iErjfSOB9msQ7fmxDRART5pTGBK4BzWYO",
+    "sha256":  "249c0bc642173e12e443a3a1a7dfd9a59468e3c7e7901874aabe363f664a998e",
+    "size":  63089214,
+    "signature":  "cSRuz0Rtw2vb0Tq5TtVnsqWR9YB957j3WbW8hftJtjGWLRlw21W040gHYAcdHZyFCAcAN9nJ0fen/T4KbSlvQWtOCLoTUUNRkxaMj4gaqsIWmUyZiMS0zbsmwmVRoE8ZJPu4DJtEwfidf68PrnMRInmhjJd/tNvL8wN49Mx3fPLEllxAM7Dy3HdwvJLglseHWo4bJnFIEI2XIfdc8mqo91mJs41GC14aYAXw4Kmj3Jg3UxyHPBo8AaIcN0jqgIxeqOXdzVRzSBw4eKhr1REJRBT+MlvLwYae5aMEGnC/YEeGBtdIcdkCTdfAO9HqkQC+DwxzXrTnfskZUcgVpTTx0l13lLUS76d/alwaUzwo8VYBVfGIlhUU124VhKdtiEEItGS1bw5jVGTz7yr3Og8mEIuBl68nP+5o3aCCwpt0R9mvHyKl47jqrBudcuHC2TGvvodgl6IkEUOuilJx20ElC7ZeTpN/qPnx5Vv+nyryXXKB3FTowP+Ly+DanAD4yWEJ",
     "modules":  [
 
                 ]
